@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HashmapX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DashaMapsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word-list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/word-list.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -111,7 +115,7 @@
       <updated>1565357944193</updated>
       <workItem from="1565357947238" duration="6000" />
       <workItem from="1565357963802" duration="4390000" />
-      <workItem from="1585763845106" duration="609000" />
+      <workItem from="1585763845106" duration="4676000" />
     </task>
     <servers />
   </component>
@@ -119,6 +123,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2053" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1585765549636">
+      <screen x="1280" y="-178" width="1920" height="1080" />
+    </state>
+    <state x="2053" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/1280.-178.1920.1080@1280.-178.1920.1080" timestamp="1585765549636" />
     <state x="1869" y="58" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585763880107">
       <screen x="1280" y="-178" width="1920" height="1080" />
     </state>
